@@ -1,3 +1,15 @@
+Para Iniciar o projeto:
+npm create vite@latest
+
+Instale as bibliotecas:
+npm install
+
+Executar:
+npm run dev
+
+Instalar a biblioteca de Rotas:
+npm install react-router-dom
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
