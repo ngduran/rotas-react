@@ -10,6 +10,9 @@ npm run dev
 Instalar a biblioteca de Rotas:
 npm install react-router-dom
 
+Instalar o tailwind css
+npm install tailwindcss @tailwindcss/vite
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
